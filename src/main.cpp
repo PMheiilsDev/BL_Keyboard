@@ -34,7 +34,7 @@
 
 // Change the below values if desired
 #define BUTTON_PIN 2
-#define MESSAGE "Hello from ESP32\n"
+#define MESSAGE "1234\n5678\n"
 #define DEVICE_NAME "ESP32 Keyboard"
 
 // Forward declarations
